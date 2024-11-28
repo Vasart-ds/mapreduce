@@ -14,9 +14,9 @@ MapReduce — это программная модель для обработк
 3. **Reduce Phase**:
     - Каждая Reduce задача принимает данные по одному ключу и обрабатывает их, создавая новые пары "ключ-значение".
 
-![[Pasted image 20241128112008.png]]
+![Pasted image 20241128112008.png](https://github.com/Vasart-ds/mapreduce/blob/master/Pasted%20image%2020241128112008.png)
 ### Пример MapReduce на Python
 
-![[Pasted image 20241128113309.png]]
-![[Pasted image 20241128113340.png]]
+![Pasted image 20241128113309.png](https://github.com/Vasart-ds/mapreduce/blob/master/Pasted%20image%2020241128113309.png)
+![Pasted image 20241128113340.png](https://github.com/Vasart-ds/mapreduce/blob/master/Pasted%20image%2020241128113340.png)
 
